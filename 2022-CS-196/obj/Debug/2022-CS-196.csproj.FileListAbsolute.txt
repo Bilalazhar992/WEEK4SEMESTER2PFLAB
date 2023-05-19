@@ -1,0 +1,7 @@
+C:\Users\uet\Desktop\PRACTICING C SHARP\2022-CS-196\2022-CS-196\bin\Debug\2022-CS-196.exe.config
+C:\Users\uet\Desktop\PRACTICING C SHARP\2022-CS-196\2022-CS-196\bin\Debug\2022-CS-196.exe
+C:\Users\uet\Desktop\PRACTICING C SHARP\2022-CS-196\2022-CS-196\bin\Debug\2022-CS-196.pdb
+C:\Users\uet\Desktop\PRACTICING C SHARP\2022-CS-196\2022-CS-196\obj\Debug\2022-CS-196.csproj.AssemblyReference.cache
+C:\Users\uet\Desktop\PRACTICING C SHARP\2022-CS-196\2022-CS-196\obj\Debug\2022-CS-196.csproj.CoreCompileInputs.cache
+C:\Users\uet\Desktop\PRACTICING C SHARP\2022-CS-196\2022-CS-196\obj\Debug\2022-CS-196.exe
+C:\Users\uet\Desktop\PRACTICING C SHARP\2022-CS-196\2022-CS-196\obj\Debug\2022-CS-196.pdb

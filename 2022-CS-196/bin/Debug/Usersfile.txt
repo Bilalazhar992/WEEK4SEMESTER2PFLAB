@@ -1,0 +1,9 @@
+bilal,12345678,admin
+bilal,12345678,admin
+bilal,12345678,admin
+bilal,12345678,admin
+Muhammad BilaL,12345678,admin
+Muhammad Bilal,12345678,admin
+Muhammad Bilal,12345678,admin
+Muhammad Zubair,12345678,Admin
+Suamira,12345678,Customer
